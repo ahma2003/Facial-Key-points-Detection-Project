@@ -3,13 +3,13 @@ This project focuses on detecting facial key points (also known as facial landma
 
 * **Features**
 
--Detect facial key points: Identify key landmarks on a face using a CNN model. 
-
--Visualize key points: Overlay the detected key points on the face for visualization.
-
--Graphical User Interface: User-friendly GUI for easy interaction.
-
--Real-time detection: Perform real-time key points detection using a webcam.
+  -Detect facial key points: Identify key landmarks on a face using a CNN model. 
+  
+  -Visualize key points: Overlay the detected key points on the face for visualization.
+  
+  -Graphical User Interface: User-friendly GUI for easy interaction.
+  
+  -Real-time detection: Perform real-time key points detection using a webcam.
 
 * **Technologies Used**
   Programming Language: Python
