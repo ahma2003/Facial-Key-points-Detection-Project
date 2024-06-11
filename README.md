@@ -19,3 +19,7 @@ This project focuses on detecting facial key points (also known as facial landma
   OpenCV (for image processing),
   Tkinter (for the GUI),
   NumPy
+
+  * **Download the dataset**
+You can download the dataset required for training and testing from this link:
+https://www.kaggle.com/datasets/bravo03/facial-detection-keypoints
